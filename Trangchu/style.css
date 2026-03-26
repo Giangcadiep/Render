@@ -1,0 +1,830 @@
+.trang-ch {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 100%;
+  min-width: 1440px;
+  min-height: 2741px;
+  display: flex;
+  flex-direction: column;
+}
+
+.trang-ch .navbar-container {
+  display: flex;
+  height: 85px;
+  width: 1440px;
+  align-self: center;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+  background-color: var(--primary-10);
+}
+
+.trang-ch .navbar {
+  display: flex;
+  width: 1336px;
+  height: 91px;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  margin-top: -13.00px;
+  margin-bottom: -13.00px;
+}
+
+.trang-ch .shoes-shop {
+  position: relative;
+  width: 358px;
+  margin-left: -1.00px;
+  -webkit-text-stroke: 1px #000000;
+  font-family: "Fraunces-Bold", Helvetica;
+  font-weight: 700;
+  color: var(--primary-100);
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.trang-ch .frame {
+  display: flex;
+  flex-direction: column;
+  width: 483px;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+}
+
+.trang-ch .div {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.trang-ch .btn {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px 12px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--primary-100);
+  border-radius: 50px;
+}
+
+.trang-ch .img {
+  position: relative;
+  width: 19px;
+  height: 19px;
+}
+
+.trang-ch .explore {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Fuzzy Bubbles-Bold", Helvetica;
+  font-weight: 700;
+  color: var(--light);
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.trang-ch .button {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px 12px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--primary-10);
+  border-radius: 50px;
+}
+
+.trang-ch .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Fuzzy Bubbles-Bold", Helvetica;
+  font-weight: 700;
+  color: var(--primary-100);
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.trang-ch .hero {
+  display: inline-flex;
+  margin-left: 4px;
+  height: 284.78px;
+  width: 1241px;
+  align-self: center;
+  position: relative;
+  margin-top: 115px;
+  align-items: center;
+  gap: 178px;
+}
+
+.trang-ch .div-2 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 41px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.trang-ch .t-tin-s-i-b-c-kh-m {
+  position: relative;
+  width: 601px;
+  margin-top: -1.00px;
+  font-family: "Gelasio-Bold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.trang-ch .span {
+  font-weight: 700;
+}
+
+.trang-ch .text-wrapper-2 {
+  font-family: "Gelasio-Regular", Helvetica;
+}
+
+.trang-ch .frame-2 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 33px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.trang-ch .btn-2 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px 12px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--primary-10);
+  border-radius: 50px;
+}
+
+.trang-ch .group {
+  position: relative;
+  width: 462px;
+  height: 284.78px;
+}
+
+.trang-ch .rectangle {
+  position: absolute;
+  top: -4px;
+  left: 46px;
+  width: 420px;
+  height: 293px;
+}
+
+.trang-ch .group-2 {
+  position: absolute;
+  top: 246px;
+  left: 0;
+  width: 177px;
+  height: 37px;
+  display: flex;
+  flex-direction: column;
+  gap: 9.9px;
+}
+
+.trang-ch .waves {
+  margin-left: -1.5px;
+  width: 150.93px;
+  height: 15.04px;
+  margin-top: -1.5px;
+}
+
+.trang-ch .waves-2 {
+  margin-left: 27.6px;
+  width: 150.93px;
+  height: 15.04px;
+}
+
+.trang-ch .frame-3 {
+  display: inline-flex;
+  margin-left: -0.8px;
+  height: 49.87px;
+  width: 159.19px;
+  align-self: center;
+  position: relative;
+  margin-top: 144.2px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.trang-ch .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Fuzzy Bubbles-Bold", Helvetica;
+  font-weight: 700;
+  color: var(--primary-100);
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.trang-ch .line {
+  position: relative;
+  width: 159.24px;
+  height: 11.61px;
+  margin-bottom: -1.49px;
+  margin-right: -0.04px;
+}
+
+.trang-ch .frame-4 {
+  display: inline-flex;
+  margin-left: 50px;
+  width: 1340px;
+  height: 1127px;
+  position: relative;
+  margin-top: 105.1px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 50px;
+}
+
+.trang-ch .text-wrapper-4 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Fuzzy Bubbles-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.trang-ch .frame-5 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 21px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.trang-ch .frame-6 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 414px;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 17px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.trang-ch .rectangle-2 {
+  position: relative;
+  width: 319px;
+  height: 315px;
+  margin-top: -2.00px;
+  object-fit: cover;
+}
+
+.trang-ch .frame-7 {
+  display: flex;
+  width: 319px;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.trang-ch .text-wrapper-5 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Fugaz One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.trang-ch .text-wrapper-6 {
+  position: relative;
+  width: fit-content;
+  font-family: "Fuzzy Bubbles-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.trang-ch .frame-8 {
+  display: flex;
+  width: 319px;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  flex: 0 0 auto;
+  margin-bottom: -2.00px;
+}
+
+.trang-ch .text-wrapper-7 {
+  position: relative;
+  width: 288px;
+  margin-top: -1.00px;
+  font-family: "Fugaz One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.trang-ch .text-wrapper-8 {
+  margin-left: -40px;
+  font-size: 20px;
+  position: relative;
+  width: fit-content;
+  font-family: "Fuzzy Bubbles-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.trang-ch .frame-9 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 35px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.trang-ch .div-3 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.trang-ch .frame-10 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1340px;
+  align-items: flex-start;
+  gap: 22px 20px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.trang-ch .shoe-card {
+  display: flex;
+  flex-direction: column;
+  width: 150px;
+  height: 232px;
+  align-items: flex-start;
+  justify-content: space-between;
+  position: relative;
+}
+
+.trang-ch .rectangle-3 {
+  position: relative;
+  width: 149px;
+  height: 146px;
+  object-fit: cover;
+}
+
+.trang-ch .frame-11 {
+  display: flex;
+  flex-direction: column;
+  width: 150px;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 17px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.trang-ch .frame-12 {
+  display: flex;
+  width: 147px;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.trang-ch .stellar-strides {
+  position: relative;
+  width: fit-content;
+  margin-top: -0.50px;
+  font-family: "Fresca-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.trang-ch .text-wrapper-9 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Fuzzy Bubbles-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.trang-ch .frame-13 {
+  display: flex;
+  width: 150px;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.trang-ch .text-wrapper-10 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Fuzzy Bubbles-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.trang-ch .explore-more-button {
+  display: inline-flex;
+  margin-left: -6px;
+  height: 40px;
+  width: 178px;
+  align-self: center;
+  position: relative;
+  margin-top: 67px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px 12px;
+  background-color: var(--primary-10);
+  border-radius: 50px;
+}
+
+.trang-ch .footer-container {
+  display: flex;
+  margin-left: -13px;
+  width: 1453px;
+  height: 250px;
+  position: relative;
+  margin-top: 473px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+  background-color: var(--primary-10);
+}
+
+.trang-ch .footer {
+  display: inline-flex;
+  flex-direction: column;
+  height: 230px;
+  align-items: center;
+  gap: 45px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: transparent;
+}
+
+.trang-ch .frame-14 {
+  display: flex;
+  width: 1340px;
+  align-items: flex-start;
+  gap: 65px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.trang-ch .frame-15 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 25px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.trang-ch .text-wrapper-11 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Fuzzy Bubbles-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.trang-ch .frame-16 {
+  display: flex;
+  width: 276px;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.trang-ch .social-follow {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--primary-10);
+  border-radius: 50px;
+}
+
+.trang-ch .img-2 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+
+.trang-ch .frame-17 {
+  display: flex;
+  flex-direction: column;
+  width: 113px;
+  align-items: flex-start;
+  gap: 12px;
+  position: relative;
+}
+
+.trang-ch .frame-18 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 88px;
+  align-items: flex-start;
+  justify-content: space-between;
+  position: relative;
+  margin-right: -119.00px;
+}
+
+.trang-ch .text-wrapper-12 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Fuzzy Bubbles-Regular", Helvetica;
+  font-weight: 400;
+  color: #141414;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.trang-ch .text-wrapper-13 {
+  position: relative;
+  width: 232px;
+  margin-top: -0.4px;
+  font-family: "Fuzzy Bubbles-Regular", Helvetica;
+  font-weight: 400;
+  color: #141414;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.trang-ch .text-wrapper-14 {
+  position: relative;
+  width: fit-content;
+  margin-top: -0.4px;
+  font-family: "Fuzzy Bubbles-Regular", Helvetica;
+  font-weight: 400;
+  color: #141414;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.trang-ch .text-wrapper-15 {
+  position: relative;
+  width: 70px;
+  margin-top: -0.4px;
+  font-family: "Fuzzy Bubbles-Regular", Helvetica;
+  font-weight: 400;
+  color: #141414;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.trang-ch .text-wrapper-16 {
+  position: relative;
+  width: 77px;
+  margin-top: -0.4px;
+  font-family: "Fuzzy Bubbles-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.trang-ch .text-wrapper-17 {
+  position: relative;
+  width: fit-content;
+  margin-top: -0.4px;
+  font-family: "Fuzzy Bubbles-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.trang-ch .frame-19 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 178px;
+  align-items: flex-start;
+  gap: 12px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.trang-ch .frame-20 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 146px;
+  align-items: flex-start;
+  position: relative;
+}
+
+.trang-ch .text-wrapper-18 {
+  color: #141414;
+  position: relative;
+  width: fit-content;
+  font-family: "Fuzzy Bubbles-Regular", Helvetica;
+  font-weight: 400;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.trang-ch .text-wrapper-19 {
+  color: #000000;
+  position: relative;
+  width: fit-content;
+  font-family: "Fuzzy Bubbles-Regular", Helvetica;
+  font-weight: 400;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.trang-ch .text-wrapper-20 {
+  position: relative;
+  width: 108px;
+  height: 14px;
+  font-family: "Fuzzy Bubbles-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.trang-ch .frame-21 {
+  display: flex;
+  flex-direction: column;
+  width: 121px;
+  height: 162px;
+  align-items: flex-start;
+  gap: 15px;
+  position: relative;
+}
+
+.trang-ch .frame-22 {
+  display: flex;
+  flex-direction: column;
+  height: 127px;
+  align-items: flex-start;
+  justify-content: space-between;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.trang-ch .text-wrapper-21 {
+  position: relative;
+  width: 69px;
+  height: 14px;
+  margin-top: -1.00px;
+  font-family: "Fuzzy Bubbles-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.trang-ch .text-wrapper-22 {
+  position: relative;
+  width: fit-content;
+  transform: rotate(0.20deg);
+  font-family: "Fuzzy Bubbles-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.trang-ch .frame-23 {
+  display: flex;
+  flex-direction: column;
+  width: 258px;
+  height: 162px;
+  align-items: flex-start;
+  gap: 15px;
+  position: relative;
+}
+
+.trang-ch .frame-24 {
+  display: flex;
+  flex-direction: column;
+  height: 112px;
+  align-items: flex-start;
+  justify-content: space-between;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.trang-ch .text-wrapper-23 {
+  position: relative;
+  width: 69px;
+  height: 14px;
+  margin-top: -1.00px;
+  font-family: "Fuzzy Bubbles-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
